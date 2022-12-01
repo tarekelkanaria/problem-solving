@@ -16,10 +16,12 @@ Tarek Elkanaria
 
 ### Problem 383
 
-- [x] Ransom Note  
+- [x] Ransom Note
+
        Hash Map
 
 ### Problem 1480
 
 - [x] Running Sum of 1d Array
+
       prefix sum array
