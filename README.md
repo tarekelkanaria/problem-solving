@@ -33,3 +33,11 @@ Tarek Elkanaria
 ### Problem 876
 
 - [x] Middle of the Linked List
+
+### Problem 485
+
+- [x] Max Consecutive Ones
+
+### Problem 1295
+
+- [x] Find Numbers with Even Number of Digits
