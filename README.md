@@ -25,3 +25,11 @@ Tarek Elkanaria
 - [x] Running Sum of 1d Array
 
       prefix sum array
+
+### Problem 1672
+
+- [x] Richest Customer Wealth
+
+### Problem 876
+
+- [x] Middle of the Linked List
