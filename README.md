@@ -41,3 +41,11 @@ Tarek Elkanaria
 ### Problem 1295
 
 - [x] Find Numbers with Even Number of Digits
+
+### Problem 1342
+
+- [x] Number of Steps to Reduce a Number to Zero
+
+### Problem 412
+
+- [x] Fizz Buzz
