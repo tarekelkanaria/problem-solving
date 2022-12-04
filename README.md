@@ -49,3 +49,11 @@ Tarek Elkanaria
 ### Problem 412
 
 - [x] Fizz Buzz
+
+### Problem 1089
+
+- [x] Duplicate Zeros
+
+### Problem 88
+
+- [x] Merge Sorted Array
