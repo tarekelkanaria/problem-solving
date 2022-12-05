@@ -57,3 +57,11 @@ Tarek Elkanaria
 ### Problem 88
 
 - [x] Merge Sorted Array
+
+### Problem 27
+
+- [x] Remove Element
+
+### Problem 26
+
+- [x] Remove Duplicates from Sorted Array
