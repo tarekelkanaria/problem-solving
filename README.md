@@ -65,3 +65,11 @@ Tarek Elkanaria
 ### Problem 26
 
 - [x] Remove Duplicates from Sorted Array
+
+### Problem 1346
+
+- [x] Check If N and Its Double Exist
+
+### Problem 941
+
+- [x] Valid Mountain Array
