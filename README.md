@@ -77,3 +77,7 @@ Tarek Elkanaria
 ### Problem 1299
 
 - [x] Replace Elements with Greatest Element on Right Side
+
+### Problem 283
+
+- [x] Move Zeroes
