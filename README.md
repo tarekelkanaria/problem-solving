@@ -73,3 +73,7 @@ Tarek Elkanaria
 ### Problem 941
 
 - [x] Valid Mountain Array
+
+### Problem 1299
+
+- [x] Replace Elements with Greatest Element on Right Side
