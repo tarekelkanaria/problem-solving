@@ -85,3 +85,11 @@ Tarek Elkanaria
 ### Problem 905
 
 - [x] Sort Array By Parity
+
+### Problem 1051
+
+- [x] Height Checker
+
+### Problem 414
+
+- [x] Third Maximum Number
