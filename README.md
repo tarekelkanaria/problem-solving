@@ -34,14 +34,6 @@ Tarek Elkanaria
 
 - [x] Middle of the Linked List
 
-### Problem 485
-
-- [x] Max Consecutive Ones
-
-### Problem 1295
-
-- [x] Find Numbers with Even Number of Digits
-
 ### Problem 1342
 
 - [x] Number of Steps to Reduce a Number to Zero
@@ -50,50 +42,19 @@ Tarek Elkanaria
 
 - [x] Fizz Buzz
 
-### Problem 1089
+## Array Problems
 
-- [x] Duplicate Zeros
-
-### Problem 88
-
-- [x] Merge Sorted Array
-
-### Problem 27
-
-- [x] Remove Element
-
-### Problem 26
-
-- [x] Remove Duplicates from Sorted Array
-
-### Problem 1346
-
-- [x] Check If N and Its Double Exist
-
-### Problem 941
-
-- [x] Valid Mountain Array
-
-### Problem 1299
-
-- [x] Replace Elements with Greatest Element on Right Side
-
-### Problem 283
-
-- [x] Move Zeroes
-
-### Problem 905
-
-- [x] Sort Array By Parity
-
-### Problem 1051
-
-- [x] Height Checker
-
-### Problem 414
-
-- [x] Third Maximum Number
-
-### Problem 448
-
-- [x] Find All Numbers Disappeared in an Array
+- [x] Problem 485 - Max Consecutive Ones
+- [x] Problem 1295 - Find Numbers with Even Number of Digits
+- [x] Problem 1089 - Duplicate Zeros
+- [x] Problem 88 - Merge Sorted Array
+- [x] Problem 27 - Remove Element
+- [x] Problem 26 - Remove Duplicates from Sorted Array
+- [x] Problem 1346 - Check If N and Its Double Exist
+- [x] Problem 941 - Valid Mountain Array
+- [x] Problem 1299 - Replace Elements with Greatest Element on Right Side
+- [x] Problem 283 - Move Zeroes
+- [x] Problem 905 - Sort Array By Parity
+- [x] Problem 1051 - Height Checker
+- [x] Problem 414 - Third Maximum Number
+- [x] Problem 448 - Find All Numbers Disappeared in an Array
