@@ -58,3 +58,4 @@ Tarek Elkanaria
 - [x] Problem 1051 - Height Checker
 - [x] Problem 414 - Third Maximum Number
 - [x] Problem 448 - Find All Numbers Disappeared in an Array
+- [x] Problem 977 - Squares of a Sorted Array
