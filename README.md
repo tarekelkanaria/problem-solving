@@ -59,3 +59,7 @@ Tarek Elkanaria
 - [x] Problem 414 - Third Maximum Number
 - [x] Problem 448 - Find All Numbers Disappeared in an Array
 - [x] Problem 977 - Squares of a Sorted Array
+
+## Array and string Problems
+
+- [x] Problem 724 Find Pivot Index
