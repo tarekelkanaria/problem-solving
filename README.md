@@ -65,3 +65,4 @@ Tarek Elkanaria
 - [x] Problem 724 Find Pivot Index
 - [x] Problem 747 Largest Number At Least Twice of Others
 - [x] Problem 66 Plus one
+- [x] Problem 498 Diagonal Traverse
