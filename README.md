@@ -67,3 +67,4 @@ Tarek Elkanaria
 - [x] Problem 66 Plus one
 - [x] Problem 498 Diagonal Traverse
 - [x] Problem 54 Spiral Matrix
+- [x] Problem 118 Pascal's Triangle
