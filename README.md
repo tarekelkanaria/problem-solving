@@ -68,3 +68,4 @@ Tarek Elkanaria
 - [x] Problem 498 Diagonal Traverse
 - [x] Problem 54 Spiral Matrix
 - [x] Problem 118 Pascal's Triangle
+- [x] Problem 67 Add Binary
