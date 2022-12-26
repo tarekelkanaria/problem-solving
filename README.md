@@ -73,3 +73,4 @@ Tarek Elkanaria
 - [x] Problem 14 Longest Common Prefix
 - [x] Problem 344 Reverse String
 - [x] Problem 561 Array Partition
+- [x] Problem 167. Two Sum II - Input Array Is Sorted
