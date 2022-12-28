@@ -6,6 +6,7 @@ var reverseString = function (s) {
 };
 console.log(reverseString(["h", "e", "l", "l", "o"])); // ["o","l","l","e","h"]
 console.log(reverseString(["H", "a", "n", "n", "a", "h"])); // ["h","a","n","n","a","H"]
+// another approach
 var reverseStringTwo = function (s) {
   // using two pointer and swap
   let left = 0;

@@ -40,4 +40,4 @@ Explanation: You need to reduce multiple spaces between two words to a single sp
 
 - **Time complexity :** `O(n)`
 
-- **Space complexity :** `O(n)`
+- **Space complexity :** `O(1)`
