@@ -1,12 +1,10 @@
-# LeetCode problems
+# Problem Solving
 
 ## Demo-Preview
 
-**This is some of leetcode problems and its solutions**
+**This is some of problems and its solutions**
 
 **For all solutions here I use JavaScript, the difficulty will vary depending on the time you visit and it'll be updated permanently**
-
-**The Requirements _[leetCode problems](https://leetcode.com/problemset/all/)_**
 
 ## Author
 
@@ -14,35 +12,35 @@ Tarek Elkanaria
 
 # Table of Contents
 
-### Problem 383
+### leetcode Problem 383
 
 - [x] Ransom Note
 
        Hash Map
 
-### Problem 1480
+### leetcode Problem 1480
 
 - [x] Running Sum of 1d Array
 
       prefix sum array
 
-### Problem 1672
+### leetcode Problem 1672
 
 - [x] Richest Customer Wealth
 
-### Problem 876
+### leetcode Problem 876
 
 - [x] Middle of the Linked List
 
-### Problem 1342
+### leetcode Problem 1342
 
 - [x] Number of Steps to Reduce a Number to Zero
 
-### Problem 412
+### leetcode Problem 412
 
 - [x] Fizz Buzz
 
-## Array Problems
+## leetcode Array Problems
 
 - [x] Problem 485 - Max Consecutive Ones
 - [x] Problem 1295 - Find Numbers with Even Number of Digits
@@ -60,7 +58,7 @@ Tarek Elkanaria
 - [x] Problem 448 - Find All Numbers Disappeared in an Array
 - [x] Problem 977 - Squares of a Sorted Array
 
-## Array and string Problems
+## leetcode Array and string Problems
 
 - [x] Problem 724 Find Pivot Index
 - [x] Problem 747 Largest Number At Least Twice of Others
