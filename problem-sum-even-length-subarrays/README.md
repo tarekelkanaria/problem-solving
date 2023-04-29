@@ -5,7 +5,7 @@
 ## Example :
 
 ```
-Input: accounts = [1, 2, 3, 4, 5]
+Input: nums = [1, 2, 3, 4, 5]
 Output: 48
 Explanation:
 subarrays of even length =
