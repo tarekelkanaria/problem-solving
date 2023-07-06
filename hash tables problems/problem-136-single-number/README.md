@@ -26,3 +26,9 @@ Output: 4
 Input: nums = [1]
 Output: 1
 ```
+
+## About the solution
+
+- **Time complexity :** `O(n)` where `n` is the length of `nums`
+
+- **Space complexity :** `O(1)`
