@@ -86,6 +86,7 @@ Tarek Elkanaria
 - [x] Problem 202 Happy Number
 - [x] Problem 1 Two Sum
 - [x] Problem 205 Isomorphic Strings
+- [x] Problem 599 Minimum Index Sum of Two Lists
 
 ## Different problems
 
