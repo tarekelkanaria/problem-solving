@@ -85,6 +85,7 @@ Tarek Elkanaria
 - [x] Problem 349 Intersection of Two Arrays
 - [x] Problem 202 Happy Number
 - [x] Problem 1 Two Sum
+- [x] Problem 205 Isomorphic Strings
 
 ## Different problems
 
