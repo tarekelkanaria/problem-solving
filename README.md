@@ -87,6 +87,7 @@ Tarek Elkanaria
 - [x] Problem 1 Two Sum
 - [x] Problem 205 Isomorphic Strings
 - [x] Problem 599 Minimum Index Sum of Two Lists
+- [x] Problem 387 First Unique Character in a String
 
 ## Different problems
 
