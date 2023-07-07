@@ -84,6 +84,7 @@ Tarek Elkanaria
 - [x] Problem 136 Single Number
 - [x] Problem 349 Intersection of Two Arrays
 - [x] Problem 202 Happy Number
+- [x] Problem 1 Two Sum
 
 ## Different problems
 
