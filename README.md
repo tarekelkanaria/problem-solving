@@ -94,6 +94,7 @@ Tarek Elkanaria
 - [x] Problem 36 Valid Sudoku
 - [x] Problem 771 Jewels and Stones
 - [x] Problem 3 Longest Substring Without Repeating Characters
+- [x] Problem 454 4 Sum II
 
 ## Different problems
 
