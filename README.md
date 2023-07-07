@@ -93,6 +93,7 @@ Tarek Elkanaria
 - [x] Problem 49 Group Anagrams
 - [x] Problem 36 Valid Sudoku
 - [x] Problem 771 Jewels and Stones
+- [x] Problem 3 Longest Substring Without Repeating Characters
 
 ## Different problems
 
