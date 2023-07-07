@@ -91,6 +91,7 @@ Tarek Elkanaria
 - [x] Problem 350 Intersection of Two Arrays II
 - [x] Problem 219 Contains Duplicate II
 - [x] Problem 49 Group Anagrams
+- [x] Problem 36 Valid Sudoku
 
 ## Different problems
 
