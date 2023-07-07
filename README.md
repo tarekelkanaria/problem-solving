@@ -92,6 +92,7 @@ Tarek Elkanaria
 - [x] Problem 219 Contains Duplicate II
 - [x] Problem 49 Group Anagrams
 - [x] Problem 36 Valid Sudoku
+- [x] Problem 771 Jewels and Stones
 
 ## Different problems
 
