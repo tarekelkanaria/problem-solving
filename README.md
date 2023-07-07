@@ -90,6 +90,7 @@ Tarek Elkanaria
 - [x] Problem 387 First Unique Character in a String
 - [x] Problem 350 Intersection of Two Arrays II
 - [x] Problem 219 Contains Duplicate II
+- [x] Problem 49 Group Anagrams
 
 ## Different problems
 
