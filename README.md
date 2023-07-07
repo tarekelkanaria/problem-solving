@@ -78,6 +78,13 @@ Tarek Elkanaria
 - [x] Problem 151 Reverse Words in a String
 - [x] Problem 557 Reverse Words in a String III
 
+## leetcode Hash tables problems
+
+- [x] Problem 217 Contains Duplicate
+- [x] Problem 136 Single Number
+- [x] Problem 349 Intersection of Two Arrays
+- [x] Problem 202 Happy Number
+
 ## Different problems
 
 - [x] Problem sum even length subarrays
